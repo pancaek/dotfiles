@@ -1,0 +1,19 @@
+Log file created at: 2023-09-18 14:13:13 12477 140710767028224
+2023-09-18 14:13:13 12477 140710767028224 storage/tiny_storage.cc(122) LOG(WARNING) cannot open:/home/pancaek/.config/mozc/.registry.db: NOT_FOUND: Failed to open /home/pancaek/.config/mozc/.registry.db with flags 0: No such file or directory
+2023-09-18 14:13:13 12477 140710767028224 dictionary/user_dictionary.cc(266) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/pancaek/.config/mozc/user_dictionary.db: No such file or directory
+2023-09-18 14:13:13 12477 140710767028224 dictionary/user_dictionary.cc(506) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-09-18 14:13:13 12477 140710760150720 storage/encrypted_string_storage.cc(69) LOG(ERROR) cannot open user history file: NOT_FOUND: Failed to open /home/pancaek/.config/mozc/.history.db with flags 0: No such file or directory
+2023-09-18 14:13:13 12477 140710760150720 prediction/user_history_predictor.cc(241) LOG(ERROR) Can't load user history data.
+2023-09-18 14:13:13 12477 140710760150720 prediction/user_history_predictor.cc(440) LOG(ERROR) UserHistoryStorage::Load() failed
+2023-09-18 14:13:13 12477 140710767028224 config/config_handler.cc(203) LOG(ERROR) user://config1.db is not found
+2023-09-18 14:16:27 12477 140710740866752 dictionary/user_dictionary.cc(266) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/pancaek/.config/mozc/user_dictionary.db: No such file or directory
+2023-09-18 14:16:27 12477 140710740866752 dictionary/user_dictionary.cc(506) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-09-18 14:16:27 12477 140710760150720 storage/encrypted_string_storage.cc(69) LOG(ERROR) cannot open user history file: NOT_FOUND: Failed to open /home/pancaek/.config/mozc/.history.db with flags 0: No such file or directory
+2023-09-18 14:16:27 12477 140710760150720 prediction/user_history_predictor.cc(241) LOG(ERROR) Can't load user history data.
+2023-09-18 14:16:27 12477 140710760150720 prediction/user_history_predictor.cc(440) LOG(ERROR) UserHistoryStorage::Load() failed
+2023-09-18 14:22:19 12477 140710740866752 dictionary/user_dictionary.cc(266) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/pancaek/.config/mozc/user_dictionary.db: No such file or directory
+2023-09-18 14:22:19 12477 140710740866752 dictionary/user_dictionary.cc(506) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-09-18 14:22:19 12477 140710760150720 storage/encrypted_string_storage.cc(69) LOG(ERROR) cannot open user history file: NOT_FOUND: Failed to open /home/pancaek/.config/mozc/.history.db with flags 0: No such file or directory
+2023-09-18 14:22:19 12477 140710760150720 prediction/user_history_predictor.cc(241) LOG(ERROR) Can't load user history data.
+2023-09-18 14:22:19 12477 140710760150720 prediction/user_history_predictor.cc(440) LOG(ERROR) UserHistoryStorage::Load() failed
+2023-09-18 22:07:04 12477 140710740866752 session/session_handler.cc(617) LOG(WARNING) server went to suspend mode for 7h2m50.295352208s

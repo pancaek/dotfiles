@@ -1,0 +1,4 @@
+Log file created at: 2023-09-18 14:21:35 12823 140234571673152
+Log file created at: 2023-09-18 14:25:44 13352 139941627899456
+2023-09-18 14:25:44 13352 139941627899456 dictionary/user_dictionary_session.cc(345) LOG(ERROR) Load failed: NOT_FOUND: Cannot stat /home/pancaek/.config/mozc/user_dictionary.db: No such file or directory: last error=1
+2023-09-18 14:25:44 13352 139941627899456 gui/word_register_dialog/word_register_dialog.cc(137) LOG(WARNING) UserDictionarySession::Load() failed
