@@ -1,7 +1,0 @@
-[Added Associations]
-application/x-desktop=code-oss.desktop;
-application/octet-stream=org.gnome.gedit.desktop;
-application/x-shellscript=org.gnome.gedit.desktop;
-
-[Default Applications]
-application/octet-stream=org.gnome.gedit.desktop
