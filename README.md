@@ -6,7 +6,9 @@ My dotfiles. Most notably, configuration for:
 - dunst
 - gtk themeing via adw-gtk3 and gradience
 - qt themeing via kvantum with qt5ct and qt6ct
+- zsh with powerlevel10k
 
+also, a bunch of tweaks to move various things out of my home directory and into .config
 
-Still to come once I rearrange the repo a bit to accomodate it are:
-- my environment variable configs for mozc themeing, and the fix for qt5 dpi
+Still to come
+- More rearranging things out of my home folder
