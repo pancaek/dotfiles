@@ -1,0 +1,18 @@
+[Added Associations]
+application/x-desktop=org.xfce.mousepad.desktop;code-oss.desktop;
+application/octet-stream=org.gnome.gedit.desktop;org.xfce.mousepad.desktop;
+application/x-shellscript=code-oss.desktop;org.gnome.gedit.desktop;
+audio/mpeg=mpv.desktop;cockos-reaper.desktop;
+audio/x-wav=cockos-reaper.desktop;
+text/markdown=org.xfce.mousepad.desktop;
+image/jpeg=org.gnome.gThumb.desktop;firefox.desktop;
+audio/vnd.wave=mpv.desktop;
+text/plain=org.xfce.mousepad.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=firefox.desktop;
+application/pdf=org.pwmt.zathura.desktop;org.gnome.Evince.desktop;
+image/png=firefox.desktop;org.gnome.gThumb.desktop;
+application/xml=org.xfce.mousepad.desktop;
+
+[Default Applications]
+application/octet-stream=org.xfce.mousepad.desktop
+inode/directory=thunar.desktop

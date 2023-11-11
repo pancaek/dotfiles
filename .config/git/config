@@ -1,0 +1,5 @@
+[user]
+	email = pancaek@github.com
+	name = pancaek
+[core]
+	editor = code --wait

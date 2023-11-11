@@ -61,5 +61,6 @@ bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcu
 default_border none
 default_floating_border none
 
-gaps inner 8
-gaps outer -4
+# gaps inner 8
+# gaps outer -4
+gaps inner 6

@@ -1,0 +1,7 @@
+export ZDOTDIR="$HOME"/.config/zsh
+
+# Add ~/.local/bin to $PATH
+# From https://wiki.archlinux.org/title/Zsh
+typeset -U path PATH
+path=(~/.local/bin $path)
+export PATH
