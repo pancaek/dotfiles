@@ -12,3 +12,4 @@ also, a bunch of tweaks to move various things out of my home directory and into
 
 Still to come
 - More rearranging things out of my home folder
+- if I was really cool I'd write a themeing script to update the various things all in one place rather than doing it ad-hoc with autostart things
